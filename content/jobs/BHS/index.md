@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-04-14'
+title: 'Developer'
+company: 'Bonnier Healthcare'
+location: 'Stockholm, Sweden'
+range: 'April 2021 - Present'
+url: 'https://www.bonnierhealthcare.se/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

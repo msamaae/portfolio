@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2020-05-01'
+title: 'Developer'
+company: 'Bonnier Pharma Insights'
+location: 'Stockholm, Sweden'
+range: 'June 2020 - March 2021'
+url: 'https://bonnierpharmainsights.se/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
