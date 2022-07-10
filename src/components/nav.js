@@ -65,6 +65,17 @@ const StyledNav = styled.nav`
   .logo {
     ${({ theme }) => theme.mixins.flexCenter};
 
+    @keyframes spin {
+      0% {
+        transform: rotate(359deg);
+      }
+      100% {
+        transform: rotate(0deg);
+      }
+    }
+
+    animation: spin 8s linear infinite;
+
     a {
       color: var(--green);
       width: 42px;
@@ -73,7 +84,7 @@ const StyledNav = styled.nav`
       &:hover,
       &:focus {
         svg {
-          fill: var(--green-tint);
+          fill: var(--green);
         }
       }
 
