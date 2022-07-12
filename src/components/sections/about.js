@@ -143,7 +143,7 @@ const About = () => {
 
             <p>
               My main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://bonnierhealthcare.com/">Bonnier Healthcare</a> for a
+              experiences at <a href="https://bonnierhealthcare.se/">Bonnier Healthcare</a> for a
               variety of clients.
             </p>
 

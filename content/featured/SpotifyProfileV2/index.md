@@ -1,9 +1,10 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Placeholder #3'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+# github: 'https://github.com/msamaae'
+# external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: 'https://github.com/msamaae'
 tech:
   - React
   - Express

@@ -1,9 +1,9 @@
 ---
-date: '2020-05-01'
-title: 'Developer'
+date: '2020-03-01'
+title: 'Developer (Intern)'
 company: 'Bonnier Pharma Insights'
 location: 'Stockholm, Sweden'
-range: 'June 2020 - March 2021'
+range: 'March 2020 - May 2020'
 url: 'https://bonnierpharmainsights.se/'
 ---
 

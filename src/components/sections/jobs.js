@@ -91,6 +91,9 @@ const StyledTabButton = styled.button`
     border-left: 0;
     border-bottom: 2px solid var(--lightest-navy);
     text-align: center;
+    white-space: normal;
+    border-bottom: ${({ isActive }) =>
+    isActive ? '2px solid var(--green)' : '2px solid var(--lightest-navy)'};
   }
 
   &:hover,
@@ -112,7 +115,7 @@ const StyledHighlight = styled.div`
   transition: transform 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition-delay: 0.1s;
 
-  @media (max-width: 600px) {
+  /* @media (max-width: 600px) {
     top: auto;
     bottom: 0;
     width: 100%;
@@ -123,7 +126,7 @@ const StyledHighlight = styled.div`
   }
   @media (max-width: 480px) {
     margin-left: 25px;
-  }
+  } */
 `;
 
 const StyledTabPanels = styled.div`
@@ -261,7 +264,8 @@ const Jobs = () => {
                   role="tab"
                   tabIndex={activeTabId === i ? '0' : '-1'}
                   aria-selected={activeTabId === i ? true : false}
-                  aria-controls={`panel-${i}`}>
+                  aria-controls={`panel-${i}`}
+                >
                   <span>{company}</span>
                 </StyledTabButton>
               );
@@ -283,7 +287,8 @@ const Jobs = () => {
                     tabIndex={activeTabId === i ? '0' : '-1'}
                     aria-labelledby={`tab-${i}`}
                     aria-hidden={activeTabId !== i}
-                    hidden={activeTabId !== i}>
+                    hidden={activeTabId !== i}
+                  >
                     <h3>
                       <span>{title}</span>
                       <span className="company">
