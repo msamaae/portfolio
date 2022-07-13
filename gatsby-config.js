@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Moohammad Samaae',
     description:
-      'Moohammad Samaae is a software developer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Moohammad Samaae is a software developer who specializes in building and designing exceptional digital experiences.',
     siteUrl: 'https://msamaae.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@msamaae',

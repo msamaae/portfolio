@@ -7,6 +7,7 @@ range: 'June 2020 - April 2021'
 url: 'https://bonnierpharmainsights.se/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Architected and implemented an in-house admin dashboard to keep track of customers across different products
+- Redesigned and maintained the Bonnier Academy site using Figma, WordPress and PHP
+- Worked closely with management and engineers to develop, document and manage various projects
+- Identified issues, analyzed information and provided solutions to problems to enhance the user experience.

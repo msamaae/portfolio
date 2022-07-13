@@ -12,4 +12,4 @@ tech:
   - Heroku
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Nulla facilisi. Nam vitae purus nunc. Phasellus suscipit in nunc at lobortis. Praesent ultrices lacus non mollis scelerisque. Aenean consectetur porttitor ipsum, vitae luctus lacus feugiat quis. In sollicitudin tellus ut elementum convallis. Praesent imperdiet hendrerit erat, vitae feugiat ante pellentesque et. Aliquam in diam sed augue aliquam scelerisque vel sit amet lacus.
