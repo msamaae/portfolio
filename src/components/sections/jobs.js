@@ -87,7 +87,7 @@ const StyledTabButton = styled.button`
   @media (max-width: 600px) {
     ${({ theme }) => theme.mixins.flexCenter};
     min-width: 120px;
-    padding: 0 15px;
+    padding: 15px;
     border-left: 0;
     border-bottom: 2px solid var(--lightest-navy);
     text-align: center;
@@ -115,18 +115,20 @@ const StyledHighlight = styled.div`
   transition: transform 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition-delay: 0.1s;
 
-  /* @media (max-width: 600px) {
-    top: auto;
+  @media (max-width: 600px) {
+    width: 0;
+    /* top: auto;
     bottom: 0;
     width: 100%;
     max-width: var(--tab-width);
     height: 2px;
     margin-left: 50px;
-    transform: translateX(calc(${({ activeTabId }) => activeTabId} * var(--tab-width)));
+    transform: translateX(calc(${({ activeTabId }) => activeTabId} * var(--tab-width))); */
   }
   @media (max-width: 480px) {
-    margin-left: 25px;
-  } */
+    width: 0;
+    /* margin-left: 25px; */
+  }
 `;
 
 const StyledTabPanels = styled.div`
