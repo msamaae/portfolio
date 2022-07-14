@@ -165,6 +165,36 @@ const StyledTabPanel = styled.div`
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
   }
+
+  a[href$='https://www.bonnieracademy.se/']
+  {
+    color: var(--green);
+
+    &:hover,
+    &:focus,
+    &:active {
+      color: var(--green);
+      outline: 0;
+      &:after {
+        width: 100%;
+      }
+      & > * {
+        color: var(--green) !important;
+        transition: var(--transition);
+      }
+    }
+    &:after {
+      content: '';
+      display: block;
+      width: 0;
+      height: 1px;
+      position: relative;
+      bottom: 0.37em;
+      background-color: var(--green);
+      transition: var(--transition);
+      opacity: 0.5;
+    }
+  }
 `;
 
 const Jobs = () => {
