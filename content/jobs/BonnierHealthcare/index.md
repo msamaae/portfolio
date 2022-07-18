@@ -8,6 +8,6 @@ url: 'https://www.bonnierhealthcare.se/'
 ---
 
 - Developed and designed major features on one of Bonnier Healthcare’s customer-facing web app using PHP, Laravel, ES6, Vue, jQuery, SQL, Google Charts, PivotTable.js, Vuetify, HTML and (S)CSS
-- Write modern, performant, and robust code for a diverse array of client and internal projects
-- Communicate and collaborate with developers, designers and producers on a daily basis
+- Wrote modern, performant, and robust code for a diverse array of client and internal projects
+- Communicated and collaborated with developers, designers and producers on a daily basis
 - Contributed extensively to brainstorming and strategy meetings with Project Manager and Team Lead to determine ideal methods to meet project goals

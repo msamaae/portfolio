@@ -9,4 +9,4 @@ url: 'https://bonnierpharmainsights.se/'
 
 - Tested sites in various browsers and devices to ensure cross-browser compatibility and mobile responsiveness
 - Trained with Senior Developers in specifications, design, coding, testing, maintenance and breaking down problems into smaller parts
-- Developed and refactored code for in-house and client websites primarily using HTML, CSS, JavaScript, jQuery, PHP and Laravel
+- Developed and refactored code for in-house and client websites using HTML, CSS, JavaScript, jQuery, PHP and Laravel
