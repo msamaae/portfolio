@@ -66,8 +66,8 @@ const Hero = () => {
       <p>
         I’m a software developer specializing in building and designing exceptional digital
         experiences. Currently, I’m focused on building accessible, human-centered products at{' '}
-        <a href="https://bonnierhealthcare.se/" target="_blank" rel="noreferrer">
-          Bonnier Healthcare
+        <a href="https://se.devoteam.com/" target="_blank" rel="noreferrer">
+          Devoteam
         </a>
         .
       </p>

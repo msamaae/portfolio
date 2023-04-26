@@ -1,9 +1,9 @@
 ---
 date: '2021-04-14'
-title: 'Developer'
+title: 'Fullstack Developer'
 company: 'Bonnier Healthcare'
 location: 'Stockholm, Sweden'
-range: 'April 2021 - Present'
+range: 'April 2021 - November 2022'
 url: 'https://www.bonnierhealthcare.se/'
 ---
 
