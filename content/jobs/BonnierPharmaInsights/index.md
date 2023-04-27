@@ -1,6 +1,6 @@
 ---
 date: '2020-06-01'
-title: 'Fullstack Developer'
+title: 'Full-stack Developer'
 company: 'Bonnier Pharma Insights'
 location: 'Stockholm, Sweden'
 range: 'June 2020 - April 2021'
