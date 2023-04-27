@@ -355,6 +355,7 @@ const Featured = () => {
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
             const { external, title, tech, github /* cover cta */ } = frontmatter;
+            // hey
             // const image = getImage(cover);
 
             return (
