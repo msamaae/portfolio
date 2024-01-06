@@ -3,7 +3,7 @@ date: '2022-11-01'
 title: 'Frontend Developer'
 company: 'Devoteam'
 location: 'Stockholm, Sweden'
-range: 'November 2022 - Present'
+range: 'November 2022 - June 2023'
 url: 'https://www.bonnierhealthcare.se/'
 ---
 

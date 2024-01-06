@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'PHP', 'Vue.js', 'Laravel', 'SQL', 'HTML & (S)CSS'];
+  const skills = ['JavaScript', 'PHP', 'Vue.js', 'Laravel', 'HTML & (S)CSS', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,15 +137,15 @@ const About = () => {
             <p>
               Hello! My name is Moohammad and I enjoy creating things that live on the internet. My
               interest in web development started when I was a kid playing around in DevTools on
-              those oldschool Flash games <a href="https://www.battleon.com/">(AdventureQuest)</a>.
+              those oldschool Flash games{' '}
+              <a href="https://www.crazygames.com/game/swords-and-sandals-1">(Sword and Sandals)</a>{' '}
               — turns out hacking simple web games for more HP and Attack Power taught me a lot
-              about JavaScript, HTML &amp; CSS!
+              about coding!
             </p>
 
             <p>
               My main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://bonnierhealthcare.se/">Bonnier Healthcare</a> for a
-              variety of clients.
+              experiences at <a href="https://sv.klimato.co/">Klimato</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
