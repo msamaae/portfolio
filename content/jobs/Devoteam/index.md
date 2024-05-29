@@ -7,8 +7,7 @@ range: 'November 2022 - June 2023'
 url: 'https://www.bonnierhealthcare.se/'
 ---
 
-- Collaborated with UX/UI designers to ensure the design is implemented as per the requirements
-- Developed user-friendly and responsive web pages using Vue.js framework
+- Developed user-friendly and responsive web pages
 - Ensured cross-browser compatibility and optimized the application for performance
 - Conducted code reviews and collaborated with other developers to ensure the code met the coding standards and best practices
 - Troubleshot issues and provided solutions to improve the user experience
